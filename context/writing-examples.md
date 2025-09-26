@@ -6,7 +6,10 @@ This file contains real examples of your writing across different platforms to m
 Add 2-3 examples from each platform you use. Include both successful posts and different content types (insights, stories, questions, etc.).
 
 ## LinkedIn Examples
-*Add your actual LinkedIn posts here*
+https://www.linkedin.com/posts/melanielatin_education-elearning-creativity-activity-7062066565839548416-VNdu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFoREUB8mSj8yABr3oCz7xCJLd26-fLfTA
+https://www.linkedin.com/posts/melanielatin_ai-responsibleai-dataprivacy-activity-7350897404109340673-j2h1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFoREUB8mSj8yABr3oCz7xCJLd26-fLfTA
+https://www.linkedin.com/posts/melanielatin_onestreamlife-solutionnetwork-devrel-activity-7303805944759492609-ZGNh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFoREUB8mSj8yABr3oCz7xCJLd26-fLfTA
+
 
 Example format:
 ```
